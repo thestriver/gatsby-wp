@@ -1,5 +1,7 @@
 # gatsby-wp
-A Gatsby rendition of 10taclesNG. Gatsby + GrapghQl 
+A Gatsby rendition of 10taclesNG. Gatsby + GrapghQl
+
+#
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
 <p align="center">
